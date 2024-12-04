@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on improvement approaches for each process.
 - 📫 How to reach me:
  
-  <www.linkedin.com/in/celinagriselfurbatto>
+  <[www.linkedin.com/in/celinagriselfurbatto](url)>
   
   <celifurbis@gmail.com>
 
