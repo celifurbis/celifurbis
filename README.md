@@ -5,7 +5,7 @@
 ### A third-level heading
 
 
-👋 **Hi, I’m Celi**
+# 👋 **Hi, I’m Celi**
 
 A Civil Engineering professional with diverse experience in both the public and private sectors, currently channeling my passion for technology. Throughout my career, I’ve gained expertise in analytics, project management, and organizational development. My journey with programming began at 19, fueled by a lifelong interest in computing. I’ve since enhanced my skill set with a Data Analytics certification and a specialization in Data Science, who decided to venture into the IT world as a data analyst and is training to become a data scientist.
 
