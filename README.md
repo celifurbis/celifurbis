@@ -8,7 +8,7 @@
 - 👀 I’m interested at enriching experience and a commitment that drives our joint growth towards excellent and efficient management.
 - 🌱 I’m currently learning to develop myself not only professionally but, more importantly, as a person.
 - 💞️ I’m looking to collaborate on improvement approaches for each process.
--  How to reach me:
+- :EMOJICODE:lupa: How to reach me:
  
   - [linkedin](www.linkedin.com/in/celinagriselfurbatto)
   - [mail](celifurbis@gmail.com)
