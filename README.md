@@ -1,7 +1,5 @@
 
-![Blue Modern Corporate Staff Profile LinkedIn Banner (4)](https://github.com/user-attachments/assets/cc4048b6-f329-40f6-a0be-2cb024e2773f)
 ![Blue Modern Technology LinkedIn Banner](https://github.com/user-attachments/assets/779dbe77-f12b-4778-9eba-9b21fdd3ffed)
-![Blue Modern Corporate Staff Profile LinkedIn Banner (5)](https://github.com/user-attachments/assets/0cb3c91d-4272-4236-88bf-53a5fb0af64e)
 
 
 
