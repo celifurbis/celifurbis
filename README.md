@@ -1,9 +1,5 @@
 
 ![Blue Modern Technology LinkedIn Banner](https://github.com/user-attachments/assets/779dbe77-f12b-4778-9eba-9b21fdd3ffed)
-# A first-level heading
-## A second-level heading
-### A third-level heading
-
 
 # 👋 **Hi, I’m Celi**
 
@@ -20,7 +16,7 @@ To develop myself not only professionally but, more importantly, as a person.
 
 To collaborate on improvement approaches for each process.
 
-### A 🔎 How to reach me:
+### 🔎 How to reach me:
  
   - [linkedin](www.linkedin.com/in/celinagriselfurbatto)
   - [mail](celifurbis@gmail.com)
