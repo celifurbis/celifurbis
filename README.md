@@ -20,7 +20,7 @@ To develop myself not only professionally but, more importantly, as a person.
 
 To collaborate on improvement approaches for each process.
 
-### 🔎 How to reach me:
+### A 🔎 How to reach me:
  
   - [linkedin](www.linkedin.com/in/celinagriselfurbatto)
   - [mail](celifurbis@gmail.com)
