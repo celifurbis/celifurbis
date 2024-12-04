@@ -7,9 +7,8 @@
 - 📫 How to reach me:
  
   - [linkedin](www.linkedin.com/in/celinagriselfurbatto)
+  - mail[](celifurbis@gmail.com)
   
-  <celifurbis@gmail.com>
-
 <!---
 celifurbis/celifurbis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
