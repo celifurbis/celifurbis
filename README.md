@@ -17,6 +17,17 @@ To develop myself not only professionally but, more importantly, as a person.
 
 To collaborate on improvement approaches for each process.
 
+## 🚀 Featured Projects
+
+### 🏗️ Water Resource Dashboard  
+**Power BI** dashboard to monitor key performance indicators in a water utility company. Reduced report generation time by **80%**.
+
+### 📈 Sales Forecasting Model  
+Built a **machine learning model** in Python using XGBoost to forecast sales. Helped optimize resource allocation by **15%**.
+
+### 🧼 Data Cleaning Automation  
+Automated **Excel reports** with Python scripts. Saved over **10 hours/month** of manual work.
+
 ## 🔧 Technologies I use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,10 +40,10 @@ To collaborate on improvement approaches for each process.
 
 ### 🔎 How to reach me:
  
-  - [linkedin](www.linkedin.com/in/celinagriselfurbatto)
-  - [mail](celifurbis@gmail.com)
-
-  ![Celina's GitHub stats](https://github-readme-stats.vercel.app/api?username=celifurbis&show_icons=true&theme=radical)
+  - 🔗 [linkedin](www.linkedin.com/in/celinagriselfurbatto)
+  - 📩 [mail](celifurbis@gmail.com)
+ 
+> *"I’m open to collaborate on data-driven projects that inspire real change!"*
   
 <!---
 celifurbis/celifurbis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
