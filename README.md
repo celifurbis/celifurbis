@@ -31,6 +31,8 @@ To collaborate on improvement approaches for each process.
  
   - [linkedin](www.linkedin.com/in/celinagriselfurbatto)
   - [mail](celifurbis@gmail.com)
+
+  ![Celina's GitHub stats](https://github-readme-stats.vercel.app/api?username=celifurbis&show_icons=true&theme=radical)
   
 <!---
 celifurbis/celifurbis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
