@@ -21,14 +21,15 @@ To collaborate on improvement approaches for each process.
 
 ## 🚀 Featured Projects
 
-     ### 🏗️ Water Resource Dashboard  
-     **Power BI** dashboard to monitor key performance indicators in a water utility company. Reduced report generation time by **80%**.
 
-     ### 📈 Sales Forecasting Model  
-     Built a **machine learning model** in Python using XGBoost to forecast sales. Helped optimize resource allocation by **15%**.
+### 🏗️ Water Resource Dashboard  
+**Power BI** dashboard to monitor key performance indicators in a water utility company. Reduced report generation time by **80%**.
 
-     ### 🧼 Data Cleaning Automation  
-     Automated **Excel reports** with Python scripts. Saved over **10 hours/month** of manual work.
+### 📈 Sales Forecasting Model  
+Built a **machine learning model** in Python using XGBoost to forecast sales. Helped optimize resource allocation by **15%**.
+
+### 🧼 Data Cleaning Automation  
+Automated **Excel reports** with Python scripts. Saved over **10 hours/month** of manual work.
 
 
 
