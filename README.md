@@ -17,6 +17,8 @@ To develop myself not only professionally but, more importantly, as a person.
 
 To collaborate on improvement approaches for each process.
 
+
+
 ## 🚀 Featured Projects
 
 ### 🏗️ Water Resource Dashboard  
@@ -27,6 +29,8 @@ Built a **machine learning model** in Python using XGBoost to forecast sales. He
 
 ### 🧼 Data Cleaning Automation  
 Automated **Excel reports** with Python scripts. Saved over **10 hours/month** of manual work.
+
+
 
 ## 🔧 Technologies I use
 
@@ -40,8 +44,8 @@ Automated **Excel reports** with Python scripts. Saved over **10 hours/month** o
 
 ### 🔎 How to reach me:
  
-  - 🔗 [linkedin](www.linkedin.com/in/celinagriselfurbatto)
-  - 📩 [mail](celifurbis@gmail.com)
+  - 📩 celifurbis@gmail.com  
+  - 🔗 [LinkedIn](https://www.linkedin.com/in/celinagriselfurbatto)
  
 > *"I’m open to collaborate on data-driven projects that inspire real change!"*
   
