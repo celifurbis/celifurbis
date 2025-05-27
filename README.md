@@ -3,7 +3,7 @@
 
 # 👋 **Hi, I’m Celi**
 
-A passionate Data Analyst with a strong background in civil engineering, advanced analytics, and project management. Throughout my career, I’ve gained expertise in analytics, project management, and organizational development. My journey with programming began at 19, fueled by a lifelong interest in computing. I’ve since enhanced my skill set with a Data Analytics certification and a specialization in Data Science, who decided to venture into the IT world as a data analyst and is training to become a data scientist.
+A passionate Data Analyst with a strong background in engineering, advanced analytics, and project management. Throughout my career, I’ve gained expertise in analytics, project management, and organizational development. My journey with programming began at 19, fueled by a lifelong interest in computing. I’ve since enhanced my skill set with a Data Analytics certification and a specialization in Data Science, who decided to venture into the IT world as a data analyst and is training to become a data scientist.
 
 ##  👀 I’m interested 
 
