@@ -17,7 +17,7 @@ To develop myself not only professionally but, more importantly, as a person.
 
 To collaborate on improvement approaches for each process.
 
-## 🔧 Tecnologías que manejo
+## 🔧 Technologies I use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white)
