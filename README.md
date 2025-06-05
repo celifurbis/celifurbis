@@ -18,14 +18,16 @@ To develop myself not only professionally but, more importantly, as a person. Pr
 To collaborate on improvement approaches for each process and to collaborate on projects that involve data exploration, analysis, and visualization. I'm eager to contribute to projects where I can apply and enhance my skills in Python and SQL.
 
 
-## 🔧 Technologies I use
+## 🔧 Tools and Frameworks
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-2389DA?style=for-the-badge&logo=snowflake&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+My toolkit includes a blend of powerful analytics tools and programming languages. I'm proficient in:
+
+- Code Management: ETL · GitHub · Jupyter Notebook
+- Data Bases: Microsoft Excel · SQL 
+- Coding: GitBash, Python (pandas, numpy, math, random) · DAX
+- Data Visualization: Tableau, PowerBI, Python (matplotlib, seaborn)
+  
+These tools have been instrumental in my data analytics projects, allowing me to efficiently manage, analyze, and visualize data.
 
 ## 🚀 Featured Projects
 
