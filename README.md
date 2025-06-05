@@ -29,8 +29,9 @@ My toolkit includes a blend of powerful analytics tools and programming language
   
 These tools have been instrumental in my data analytics projects, allowing me to efficiently manage, analyze, and visualize data.
 
-## 🚀 Featured Projects
+## 🚀 Favorite Data Sets or Challenges
 
+As I dive deeper into data analytics, I'm intrigued by the wide range of data sets and the different challenges they present. I'm still figuring out which areas I connect with the most, but I'm especially focused on sharpening my skills in SQL and Python. I’m motivated by the ability to analyze data effectively and turn it into meaningful insights that can drive decisions and improvements.
 
 ### 🏗️ Water Resource Dashboard  
 **Power BI** dashboard to monitor key performance indicators in a water utility company. Reduced report generation time by **80%**.
@@ -41,12 +42,20 @@ Built a **machine learning model** in Python using XGBoost to forecast sales. He
 ### 🧼 Data Cleaning Automation  
 Automated **Excel reports** with Python scripts. Saved over **10 hours/month** of manual work.
 
-### 🔎 How to reach me:
+## 🔎 How to reach me:
  
   - 📩 celifurbis@gmail.com  
   - 🔗 [LinkedIn](https://www.linkedin.com/in/celinagriselfurbatto)
  
 > *"I’m open to collaborate on data-driven projects that inspire real change!"*
+
+## 🔎 Learning Goals
+
+My immediate learning objectives are:
+
+- Enhance Python and SQL Skills: To deepen my understanding and proficiency in Python and SQL for more advanced data manipulation and analysis.
+- Learn R: To expand my skill set with this powerful language, particularly favored in statistical analysis and data visualization.
+- Master the Data Lifecycle: From data extraction and cleaning to processing, analysis, and visualization, I aim to refine my skills across all stages of the data lifecycle. I'm committed to continuous learning, staying updated with the latest trends and techniques, and diving into disruptive innovations in data science.
   
 <!---
 celifurbis/celifurbis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
