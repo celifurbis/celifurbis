@@ -42,6 +42,14 @@ Built a **machine learning model** in Python using XGBoost to forecast sales. He
 ### 🧼 Data Cleaning Automation  
 Automated **Excel reports** with Python scripts. Saved over **10 hours/month** of manual work.
 
+## 🌱 Learning Goals
+
+My immediate learning objectives are:
+
+- Enhance Python and SQL Skills: To deepen my understanding and proficiency in Python and SQL for more advanced data manipulation and analysis.
+- Learn R: To expand my skill set with this powerful language, particularly favored in statistical analysis and data visualization.
+- Master the Data Lifecycle: From data extraction and cleaning to processing, analysis, and visualization, I aim to refine my skills across all stages of the data lifecycle. I'm committed to continuous learning, staying updated with the latest trends and techniques, and diving into disruptive innovations in data science.
+- 
 ## 🔎 How to reach me:
  
   - 📩 celifurbis@gmail.com  
@@ -49,13 +57,7 @@ Automated **Excel reports** with Python scripts. Saved over **10 hours/month** o
  
 > *"I’m open to collaborate on data-driven projects that inspire real change!"*
 
-## 🔎 Learning Goals
 
-My immediate learning objectives are:
-
-- Enhance Python and SQL Skills: To deepen my understanding and proficiency in Python and SQL for more advanced data manipulation and analysis.
-- Learn R: To expand my skill set with this powerful language, particularly favored in statistical analysis and data visualization.
-- Master the Data Lifecycle: From data extraction and cleaning to processing, analysis, and visualization, I aim to refine my skills across all stages of the data lifecycle. I'm committed to continuous learning, staying updated with the latest trends and techniques, and diving into disruptive innovations in data science.
   
 <!---
 celifurbis/celifurbis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
