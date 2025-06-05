@@ -24,8 +24,8 @@ My toolkit includes a blend of powerful analytics tools and programming language
 
 - Code Management: ETL · GitHub · Jupyter Notebook
 - Data Bases: Microsoft Excel · SQL 
-- Coding: GitBash, Python (pandas, numpy, math, random) · DAX
-- Data Visualization: Tableau, PowerBI, Python (matplotlib, seaborn)
+- Coding: Python (pandas, numpy, math, random) · DAX
+- Data Visualization: Tableau · PowerBI · Python (matplotlib, seaborn)
   
 These tools have been instrumental in my data analytics projects, allowing me to efficiently manage, analyze, and visualize data.
 
