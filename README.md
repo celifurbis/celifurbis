@@ -5,6 +5,8 @@
 
 A passionate Data Analyst with a strong background in engineering, advanced analytics, and project management. Throughout my career, I’ve gained expertise in analytics, project management, and organizational development. My journey with programming began at 19, fueled by a lifelong interest in computing. I’ve since enhanced my skill set with a Data Analytics certification and a specialization in Data Science, who decided to venture into the IT world as a data analyst and is training to become a data scientist.
 
+Currently, in my role as a Data Analyst, I lead data-driven initiatives to improve operational efficiency and decision-making. I manage ETL processes and reporting workflows that support strategic planning, ensuring data integrity and timely insights across departments. My focus is on optimizing resource allocation, automating repetitive tasks, and enhancing cross-functional collaboration through clear communication, continuous improvement, and actionable analytics.
+
 ##  👀 I’m interested 
 
 At enriching experience and a commitment that drives our joint growth towards excellent and efficient management.
