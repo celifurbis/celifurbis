@@ -11,11 +11,11 @@ At enriching experience and a commitment that drives our joint growth towards ex
 
 ## 🌱 I’m currently learning
 
-To develop myself not only professionally but, more importantly, as a person.
+To develop myself not only professionally but, more importantly, as a person. Professionally learning advanced data analytics techniques, focusing on machine learning and statistical methods. I'm also exploring different data visualization tools to represent complex datasets better.
 
 ## 💞️ I’m looking 
 
-To collaborate on improvement approaches for each process.
+To collaborate on improvement approaches for each process and to collaborate on projects that involve data exploration, analysis, and visualization. I'm eager to contribute to projects where I can apply and enhance my skills in Python and SQL.
 
 
 ## 🔧 Technologies I use
